@@ -6,4 +6,11 @@ nums.each do |num|
     end
 end
 
+p ""
+
+nums.each do |num|
+    if num < 60
+    p num
+    end
+end
     
